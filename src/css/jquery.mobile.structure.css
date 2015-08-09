@@ -2044,7 +2044,7 @@ fieldset.ui-controlgroup {
 	width: 20px;
 	height: 20px;
 }
-.ui-popup-arrow-container.ui-popup-arrow-t .ui-popup-arrow-background
+.ui-popup-arrow-container.ui-popup-arrow-t .ui-popup-arrow-background,
 .ui-popup-arrow-container.ui-popup-arrow-b .ui-popup-arrow-background {
 	background-position: 0 10px;
 }
